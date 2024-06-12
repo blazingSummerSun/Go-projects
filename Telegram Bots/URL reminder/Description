@@ -1,0 +1,2 @@
+Telegram bot on Golang storing some links for saved sources. During a time the bot randomly send a link for a user to visit it.
+This can be useful for users who often save links but forget to read them after a while.
